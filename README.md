@@ -14,6 +14,7 @@ https://0x3f3f3f3fun.github.io/projects/diffbir/
 ## Output
 
 `with general_full_v1.ckpt general_swinir_v1.ckpt` <br />
+
 ![Screenshot 2023-09-06 161217](https://github.com/camenduru/DiffBIR-colab/assets/54370274/5291b63a-5511-4d1b-b369-265c94534eee) <br />
 
 `with face_full_v1.ckpt face_swinir_v1.ckpt` <br />
