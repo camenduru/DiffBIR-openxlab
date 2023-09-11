@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+torchaudio==2.0.2+cu118
+torchtext==0.15.2
+torchdata==0.6.1
+xformers==0.0.20
+triton==2.0.0
+einops
+pytorch_lightning
+gradio
+omegaconf
+transformers
+lpips
+opencv-python
+git+https://github.com/mlfoundations/open_clip@v2.20.0
